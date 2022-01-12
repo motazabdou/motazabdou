@@ -13,8 +13,8 @@ I had already taken an interest in coding in 2015 during my phase as a digital m
 ***
 
 ### 📫 How to reach me...
-[LinkedIn Profile](https://www.linkedin.com/in/motaz-abdou-b922a75/)
-[Website](https://motazabdou.com/)
+* [LinkedIn Profile](https://www.linkedin.com/in/motaz-abdou-b922a75/)
+* [Website](https://motazabdou.com/)
 ***
 
 ### 💻 Languages, libraries & Frameworks I am comfortable working with...
