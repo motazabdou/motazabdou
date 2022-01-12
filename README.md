@@ -17,7 +17,7 @@ I had already taken an interest in coding in 2015 during my phase as a digital m
 * [Website](https://motazabdou.com/)
 ***
 
-### 💻 Languages, libraries & Frameworks I am comfortable working with...
+### 💻 I am comfortable working with...
 * HTML
 * CSS
 * JavaScript
