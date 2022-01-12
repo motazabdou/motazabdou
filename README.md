@@ -1,4 +1,4 @@
-## 👋 Hi, I’m @MotazAbdou. Junior Software Developer, residing in Waterford, Ireland.
+### 👋 Hi, I’m @MotazAbdou. Junior Software Developer, residing in Waterford, Ireland.
 
 I have recently completed my Diploma in Full Stack Software Development, and I'm very eager to embark on a career in the software development industry and gain professional experience.
 
@@ -7,16 +7,17 @@ I came into the industry as a Mechanical Engineer by profession, initially seeki
 My goal in this journey is fairly simple; to continue learning, to be a student for as long as it takes to become a teacher. To absorb as much knowledge and skill as I can from those my senior and to become the best developer I can be. I truly relish any opportunity to learn and grow, with my ultimate goal being the delivery of accessible applications which conform to modern web standards..
 ***
 
-## 👀 I’m interested in ... Coding!
+### 👀 I’m interested in ... Coding!
 
 I had already taken an interest in coding in 2015 during my phase as a digital marketer, having learned front-end development, but I have decided to retrain more seriously in the software development industry during 2021, broadening my knowledge base as a full-stack developer, and widening my understanding of front-end and back-end languages, tools, libraries and frameworks. I intend to bring expertise in problem-solving and to create innovative solutions.
 ***
 
-## 📫 How to reach me...
+### 📫 How to reach me...
 [LinkedIn Profile](https://www.linkedin.com/in/motaz-abdou-b922a75/)
 [Website](https://motazabdou.com/)
+***
 
-## 💻 Languages, libraries & Frameworks I am comfortable working with...
+### 💻 Languages, libraries & Frameworks I am comfortable working with...
 * HTML
 * CSS
 * JavaScript
@@ -26,8 +27,9 @@ I had already taken an interest in coding in 2015 during my phase as a digital m
 * Flask + Jinja
 * Django
 * Git & Version Control
+***
 
-## 🌱 I’m currently learning ...
+### 🌱 I’m currently learning ...
 * ReactJs
 * NodeJs
 
