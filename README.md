@@ -49,4 +49,3 @@ Here are some ideas to get you started:
 -->
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=motazabdou&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=motazabdou&layout=compact)](https://github.com/motazabdou/github-readme-stats)
