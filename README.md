@@ -26,6 +26,9 @@ I had already taken an interest in coding in 2015 during my phase as a digital m
 * Python
 * Flask + Jinja
 * Django
+* MongoDB
+* MySQL
+* PostGres
 * Git & Version Control
 ***
 
