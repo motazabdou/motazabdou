@@ -1,8 +1,8 @@
 ### About Me...
 
-## 👋 Hi, I’m @MotazAbdou. Junior Software Developer, residing in Waterford, Ireland.
+### 👋 Hi, I’m Motaz. Junior Software Developer.
 
-I have recently completed my Diploma in Full Stack Software Development, and I'm very eager to embark on a career in the software development industry and gain professional experience.
+I have completed my Diploma in Full Stack Software Development, and recently landed my first role as a Software Developer!
 
 I came into the industry as a Mechanical Engineer by profession, initially seeking to improve my digital marketing knowledge, until I quickly discovered the fascinating world of programming, which has ultimately turned into a passion of mine. The artist in me found an incredible means to express my creativity, designs and ideas, and the logical, critical thinker and problem solver in me knew that coding fulfils that side of me. Luckily for me, Web Development exists and appeases both these sides.
 
