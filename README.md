@@ -1,6 +1,6 @@
 ### About Me...
 
-👋 Hi, I’m @MotazAbdou. Junior Software Developer, residing in Waterford, Ireland.
+## 👋 Hi, I’m @MotazAbdou. Junior Software Developer, residing in Waterford, Ireland.
 
 I have recently completed my Diploma in Full Stack Software Development, and I'm very eager to embark on a career in the software development industry and gain professional experience.
 
