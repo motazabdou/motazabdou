@@ -25,6 +25,7 @@ I had already taken an interest in coding in 2015 during my phase as a digital m
 * JavaScript
 * Bootstrap & Materialize
 * jQuery
+* React
 * Python
 * Flask + Jinja
 * Django
@@ -36,6 +37,8 @@ I had already taken an interest in coding in 2015 during my phase as a digital m
 
 ### 🌱 I’m currently learning ...
 * ReactJs
+* Redux, Redux Saga, Redux Toolkit
+* ExpressJs
 * NodeJs
 
 <!--
